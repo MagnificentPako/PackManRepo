@@ -7,5 +7,5 @@ name = glue
   category = utility
   dependencies = none
   version = 0.1
-  size = 0
+  size = 123
 end
