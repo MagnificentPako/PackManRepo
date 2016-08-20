@@ -1,7 +1,9 @@
 name = glue
   type = raw
-    url = https://raw.github.com/dummy/url
+    url = https://raw.githubusercontent.com/TheFreakLord/Glue/master/glue.lua
     filename = glue
+  setup = glue install-glue-internal
+  cleanup = glue uninstall-glue-internal
   category = utility
   dependencies = none
   version = 0.1
