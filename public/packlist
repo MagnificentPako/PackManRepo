@@ -6,8 +6,8 @@ name = glue
   cleanup = glue uninstall-glue-internal
   category = utility
   dependencies = thefreaklord/json
-  version = 0.1
-  size = 123
+  version = 1.0
+  size = 6285
 end
 name = json
   type = raw
