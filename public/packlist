@@ -5,7 +5,7 @@ name = glue
   setup = glue install-glue-internal
   cleanup = glue uninstall-glue-internal
   category = utility
-  dependencies = thefreaklord/json
+  dependencies = h4x0rz/json
   version = 1.1
   size = 6285
 end
