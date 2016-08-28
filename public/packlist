@@ -6,8 +6,8 @@ name = capsule
   cleanup = capsule uninstall-capsule-internal
   category = utility
   dependencies = h4x0rz/glue
-  version = 1.1
-  size = 6285
+  version = 1.0
+  size = 3681
 end
 name = glue
   type = raw
@@ -18,7 +18,7 @@ name = glue
   category = utility
   dependencies = h4x0rz/json
   version = 1.1
-  size = 6285
+  size = 6864
 end
 name = json
   type = raw
