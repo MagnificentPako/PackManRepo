@@ -1,3 +1,14 @@
+name = capsule
+  type = raw
+    url = https://raw.githubusercontent.com/TheFreakLord/Capsule/master/capsule.lua
+    filename = capsule
+  setup = capsule install-capsule-internal
+  cleanup = capsule install-capsule-internal
+  category = utility
+  dependencies = h4x0rz/glue
+  version = 1.1
+  size = 6285
+end
 name = glue
   type = raw
     url = https://raw.githubusercontent.com/TheFreakLord/Glue/master/glue.lua
